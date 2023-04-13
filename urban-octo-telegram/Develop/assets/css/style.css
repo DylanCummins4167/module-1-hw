@@ -72,12 +72,11 @@ p {
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
-  
-   
-     
+    margin-left: 20px;    
 }
+
 /*consolidated all h2 to reduce clutter and moved all h2 above all h3 to provide sequential order*/
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -121,8 +120,6 @@ h2 {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-
 
 /*consolidated all h3 to reduce clutter*/
 h3 {
@@ -173,10 +170,6 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
-
 
 .footer {
     padding: 30px;
